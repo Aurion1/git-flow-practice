@@ -2,7 +2,7 @@
 
 this project demonstates GIT version control
 
-Project status: INITIAL
+Project status: homepage ready
 ## Features
 -homepage
 -about page
